@@ -44,6 +44,17 @@ permalink: /projects
 ## Technical Projects 
 
 <div>
+<p style="color:LightSlateGray;"> NOV 2024 - PRESENT </p>
+<h3> ReadingLog - Console Application For Logging Reading Items </h3>
+<p style="color:LightSlateGray;"> Language: Java </p>
+</div>
+
+- [https://github.com/lavanyamenon15/ReadingLog](https://github.com/lavanyamenon15/ReadingLog) 
+- Leveraged principles of polymorphism, abstraction, SOLID design, and OOP to design a scalable system for logging reading items
+- Will continue expanding the codebase to include view, update, and delete functionality. 
+
+
+<div>
 <p style="color:LightSlateGray;"> MAR 2024 </p>
 <h3> <a href="https://devpost.com/software/jamsesh">Jam Sesh</a> - Virtual Collaboration Platform (Cmd-f 2024 UBC CS Project Hub Prize Winner) </h3>
 <p style="color:LightSlateGray;"> Language: JavaScript,  HTML, CSS, React.js, Figma </p>
