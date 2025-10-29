@@ -44,9 +44,19 @@ permalink: /projects
 ## Technical Projects 
 
 <div>
+<p style="color:LightSlateGray;"> SEPT 2025 - PRESENT </p>
+<h3> UBC Honours Thesis Research Project - Provenance-based Intrusion Detection Systems </h3>
+<p style="color:LightSlateGray;">Python, PyTorch </p>
+</div>
+
+- Conducting research into the efficacy of using Unified Multi-level Graph Anomaly Detection in Provenance-based Intrusion Detection Systems. 
+- Supervised by Thomas Pasquier under the [UBC Systopia Lab](https://systopia.cs.ubc.ca/) and the [UBC Security and Privacy Group](https://spg.cs.ubc.ca/people/)
+
+
+<div>
 <p style="color:LightSlateGray;"> NOV 2024 - PRESENT </p>
 <h3> ReadingLog - Console Application For Logging Reading Items </h3>
-<p style="color:LightSlateGray;"> Language: Java </p>
+<p style="color:LightSlateGray;">Java </p>
 </div>
 
 - [https://github.com/lavanyamenon15/ReadingLog](https://github.com/lavanyamenon15/ReadingLog) 
@@ -57,7 +67,7 @@ permalink: /projects
 <div>
 <p style="color:LightSlateGray;"> MAR 2024 </p>
 <h3> <a href="https://devpost.com/software/jamsesh">Jam Sesh</a> - Virtual Collaboration Platform (Cmd-f 2024 UBC CS Project Hub Prize Winner) </h3>
-<p style="color:LightSlateGray;"> Language: JavaScript,  HTML, CSS, React.js, Figma </p>
+<p style="color:LightSlateGray;">JavaScript,  HTML, CSS, React.js, Figma </p>
 </div>
 
 - [https://github.com/lavanyamenon15/JamSesh](https://github.com/lavanyamenon15/JamSesh) 
@@ -71,7 +81,7 @@ permalink: /projects
 <div>
 <p style="color:LightSlateGray;"> FEB 2024 </p>
 <h3><a href="https://devpost.com/software/ecochic-0denl7">EcoChic</a> - Sustainable Fashion Platform (Black Wings Hacks Hackathon 3rd Place Winner)</h3>
-<p style="color:LightSlateGray;"> Languages: JavaScript,  HTML, CSS, React.js, Node.js, RapidAPI, Figma </p>
+<p style="color:LightSlateGray;">JavaScript,  HTML, CSS, React.js, Node.js, RapidAPI, Figma </p>
 </div>
 
 - [https://github.com/jeyenlam/EcoChic](https://github.com/jeyenlam/EcoChic) 
@@ -88,7 +98,7 @@ permalink: /projects
 <div>
 <p style="color:LightSlateGray;">SEPT 2023 - NOV 2023</p>
 <h3>Olympic Village - Database Application aimed at coordinating the Olympics</h3>
-<p style="color:LightSlateGray;">Languages and Software: PHP, CSS, HTML, SQL, SQL *Plus, Oracle DBMS</p>
+<p style="color:LightSlateGray;">PHP, CSS, HTML, SQL, SQL *Plus, Oracle DBMS</p>
 </div>
   
 - Worked in a team to conceptualise, design, and  implement a system that would update, insert, delete,  and query data in an Olympic Village database
@@ -100,7 +110,7 @@ permalink: /projects
 <div>
 <p style="color:LightSlateGray;"> JAN 2023 - APR 2023 </p>
 <h3> Insight UBC - UBC Course Dataset Navigation  System </h3>
-<p style="color:LightSlateGray;"> Language: JavaScript, TypeScript, Mocha/Chai Assertions , CSS, HTML </p>
+<p style="color:LightSlateGray;">JavaScript, TypeScript, Mocha/Chai Assertions , CSS, HTML </p>
 </div>
 
 - Used black-box TDD approach to testing backend of Course Dataset Navigation System
@@ -112,7 +122,7 @@ permalink: /projects
 <div>
 <p style="color:LightSlateGray;"> JAN 2022 - MAR 2022 </p>
 <h3> Med-Doc - Medical History Documentation System </h3>
-<p style="color:LightSlateGray;"> Language: Java </p>
+<p style="color:LightSlateGray;">Java </p>
 </div>
 
 - Programmed a medical history documentation system through which users could organise, add, remove or view their medical history in a streamlined user-friendly  way

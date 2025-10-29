@@ -43,16 +43,30 @@ permalink: /workexperience
 ## Work Experience 
 
 <div>
-<p style="color:LightSlateGray;">MAY 2024 - APR 2025 </p>
+<p style="color:LightSlateGray;">MAY 2024 - PRESENT </p>
 <h3>Claribase - Airtable Developer (Co-op Intern) </h3>
-<p style="color:LightSlateGray;">Software and Languages: Airtable, Fillout, Zapier, JavaScript </p>
+<p style="color:LightSlateGray;">Airtable, Fillout, Zapier, JavaScript </p>
 </div>
   
-- Implementing and designing Airtable databases for a variety of clients
-- Engaging with clients about their workflow and collaborating over ways to streamline business processes 
-- Implementing database Automations within Airtable and using other 3rd party tools 
-- Implementing Airtable interfaces to streamline client workflow and capture important reporting metrics
-- Utilising a variety of 3rd party tools integrated with Airtable to fulfil project specifications  
+- Worked directly with ~10 clients ranging from non-profits to enterprise level teams in various stages of their projects (ex. discovery, implementation, support). 
+- Took the lead on an enterprise client project from implementation phase to launch and support. 
+- Designed and implemented database architectures and streamlined workflows using Airtable software. 
+- Implemented complex automations using JavaScript, 3rd party tools, and native Airtable automations to simplify client workflows.
+- Gained exposure to a variety of industries and use cases (ex. marketing, non-profits, financial management, event management, membership management).
+ 
+
+<br>
+
+<div>
+<p style="color:LightSlateGray;">MAY 2025 - AUG 2025 </p>
+<h3>Citi - Software Developer Summer Analyst </h3>
+<p style="color:LightSlateGray;">TypeScript, Angular, D3, Dagre, Java, Quarkus, Gradle </p>
+</div>
+  
+- Designed, implemented, and tested the MVP for a directed acyclic graph feature to visualize Tekton build data (using TypeScript, Angular, D3, and Dagre). 
+  - Involved implementing (1) data processing/ transformation algorithms and (2) loading and rendering algorithms that would support visualizing complex Tekton builds.
+- Created a new API endpoint (using Java, Gradle, and Quarkus) that would pull data from an S3 bucket then decompress, extract, and convert it to the required data form.
+ 
 
 <br>
 
@@ -60,7 +74,7 @@ permalink: /workexperience
 <p style="color:LightSlateGray;"> MAY 2023 - JUL 2023</p>
 <h3> <a href="https://thedebtlessstudents.org/"> The Debtless Students </a> - Software Developer
  </h3>
-<p style="color:LightSlateGray;"> Languages and Frameworks: Angular, NestJS, GraphQL, PostgreSQL, Digital Ocean, TypeORM, TypeScript, HTML</p>
+<p style="color:LightSlateGray;">Angular, NestJS, GraphQL, PostgreSQL, Digital Ocean, TypeORM, TypeScript, HTML</p>
 </div>
 
 - Responsible for database management and construction as well as adding website functionality
