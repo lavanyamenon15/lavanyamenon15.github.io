@@ -41,9 +41,8 @@ permalink: /technicalskills
   type="button"> <a href="https://lavanyamenon15.github.io/workexperience"> Work Experience </a> </button> 
 
 ## Technical Skills
-- **Programming Languages :**  TypeScript,  Java,   C++,  HTML,  JavaScript, CSS, SQL, PHP, Python* 
-- **Softwares :**   Visual Studio Code,  IntelliJ, GitHub, Node.js*, Unity Hub, Digital Ocean, Postman, Oracle, Airtable 
-- **Frameworks and Libraries:** GraphQL, Angular*,  TypeORM, React.js*, Three.js*, NumPy
-- **Testing :**  JUnit,    Mocha/Chai,    GDB,    TDD
-- **Design and Programming Fundamentals:** Object Oriented Programming, Common Data Structures (stacks, queues, trees etc.), Relational Databases, Algorithms, Machine Learning Fundamentals 
-*currently acquiring
+- **Programming Languages :**  TypeScript,  Java,   Python , C, C++,  HTML,  JavaScript, CSS, SQL, PHP
+- **Softwares :**   Visual Studio Code,  IntelliJ, GitHub, Node.js, Digital Ocean, Postman, Airtable
+- **Frameworks and Libraries:**  Angular, React.js, NumPy, Dagre, D3, GraphQL, TypeORM
+- **Testing :**  JUnit,  Mocha/Chai, GDB,  TDD, Jasmine.Spy
+- **Design and Programming Fundamentals:** Object Oriented Programming, Common Data Structures (stacks, queues, trees etc.), Relational Databases, Algorithms, Machine Learning Fundamentals , UML 
